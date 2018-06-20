@@ -1,0 +1,22 @@
+body{
+	font-family: calibri;
+}
+
+.formulario{
+padding: red;
+}
+
+legend{
+	color: green;
+	font-family: verdana;
+
+}
+label{
+	color: green;
+}
+
+h3{
+color: green;
+background-color: gray;
+text-align: center;
+}
